@@ -1,0 +1,10 @@
+{"id": "q1", "question": "What is the total revenue for July 2024?", "format_hint": "number"}
+{"id": "q2", "question": "Which products are in the Beverages category?", "format_hint": "list"}
+{"id": "q3", "question": "What is the average order value?", "format_hint": "number"}
+{"id": "q4", "question": "What are the KPI definitions for revenue metrics?", "format_hint": "text"}
+{"id": "q5", "question": "List all orders placed by customer ALFKI", "format_hint": "list"}
+{"id": "q6", "question": "What marketing campaigns are scheduled for August 2024?", "format_hint": "text"}
+{"id": "q7", "question": "What is the return policy for perishable items?", "format_hint": "text"}
+{"id": "q8", "question": "How many products are in stock with quantity less than 20?", "format_hint": "number"}
+{"id": "q9", "question": "What is the formula for calculating Average Order Value?", "format_hint": "text"}
+{"id": "q10", "question": "Which countries have we shipped orders to?", "format_hint": "list"}
